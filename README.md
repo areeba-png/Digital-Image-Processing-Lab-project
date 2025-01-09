@@ -71,8 +71,3 @@ pip install streamlit opencv-python-headless numpy pillow
 3. View the processed image.
 4. Download the processed image using the "Download Processed Image" button.
 
-
-## Screenshots
-
-> Include screenshots of the app interface here.
-
