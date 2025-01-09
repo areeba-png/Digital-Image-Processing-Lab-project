@@ -3,8 +3,6 @@
 
 An interactive web application built with **Streamlit** and **OpenCV** for performing various image processing operations. The app allows users to upload an image and apply transformations such as background removal, edge detection, blurring, resizing, rotation, and image addition.
 
----
-
 ## Features
 
 - **Background Removal**: Automatically removes the background from images.
@@ -13,8 +11,6 @@ An interactive web application built with **Streamlit** and **OpenCV** for perfo
 - **Image Resizing**: Resize images to specified dimensions.
 - **Image Rotation**: Rotate images to a custom angle.
 - **Image Addition**: Blend two images with equal weights.
-
----
 
 ## Installation
 
@@ -29,7 +25,6 @@ An interactive web application built with **Streamlit** and **OpenCV** for perfo
    pip install -r requirements.txt
    ```
 
----
 
 ## Usage
 
@@ -47,14 +42,13 @@ An interactive web application built with **Streamlit** and **OpenCV** for perfo
    streamlit run app.py
    ```
 
----
 
 ## File Structure
 - `app.py`: Main application script.
 - `requirements.txt`: Contains a list of all required Python libraries.
 - `report.pdf` (or similar): A report file describing the app functionality and implementation details.
 
----
+
 
 ## Dependencies
 
@@ -69,7 +63,6 @@ Install these using:
 pip install streamlit opencv-python-headless numpy pillow
 ```
 
----
 
 ## How to Use the App
 1. Upload an image in JPG, PNG, BMP, or JPEG format.
@@ -78,21 +71,8 @@ pip install streamlit opencv-python-headless numpy pillow
 3. View the processed image.
 4. Download the processed image using the "Download Processed Image" button.
 
----
 
 ## Screenshots
 
 > Include screenshots of the app interface here.
 
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-## Acknowledgements
-- [Streamlit Documentation](https://docs.streamlit.io/)
-- [OpenCV Documentation](https://docs.opencv.org/)
-- [Pillow Documentation](https://pillow.readthedocs.io/)
