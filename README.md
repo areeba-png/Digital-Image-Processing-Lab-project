@@ -2,6 +2,8 @@
 # Image Processing Tool
 
 An interactive web application built with **Streamlit** and **OpenCV** for performing various image processing operations. The app allows users to upload an image and apply transformations such as background removal, edge detection, blurring, resizing, rotation, and image addition.
+## 🔗 Live Demo
+Check out the live app here: [Image Processing Tool](https://digital-image-processing-lab-project-gjbtpv6ldcf4sjl9gvobe4.streamlit.app/)
 
 ## Features
 
